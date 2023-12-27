@@ -5,7 +5,7 @@
 - **Ubicación:** `Diplomacy.ipynb`
 - **Descripcion:**
   - Jupyter notebook con el desarrollo del modelo para predecir la intencion de un mensaje entre dos jugadores (verdad o mentira) en el juego de estrategia Diplomacy, haciendo uso de transfer learning con modelos de NLP basados en transformers.
-  - 
+  - El modelo entrenado se puede encontrar en [Google Drive](https://drive.google.com/file/d/1o60KT6w03W41Z8nUA_-NdGcH3gWAChPa/view?usp=sharing).
 
 ### 2. Computer Vision
 
@@ -24,6 +24,9 @@ python extraer_info.py 'archivo.json'
 - **Descripción:**
   - Diagrama de alto nivel de despliegue de modelo ML en la nube de AWS
 
+## Datos
+
+En la carpeta `/datos` se encuentran los insumos utilizados para el desarrollo del modelo y prueba del script para extraccion de datos.
 
 ---
 © 2023 - Diego Garcia
